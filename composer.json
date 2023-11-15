@@ -1,6 +1,6 @@
 {
-  "name": "tanhongit/composer-plugin-example",
-  "description": "An example of a composer plugin",
+  "name": "tanhongit/composer-plugin-demo",
+  "description": "A demo of a composer plugin",
   "type": "composer-plugin",
   "license": "MIT",
   "authors": [
@@ -17,10 +17,10 @@
   },
   "autoload": {
     "psr-4": {
-      "Cslant\\ComposerPlugin\\Example\\": "src/"
+      "Cslant\\ComposerPlugin\\Demo\\": "src/"
     }
   },
   "extra": {
-    "class": "Cslant\\ComposerPlugin\\Example\\Plugin"
+    "class": "Cslant\\ComposerPlugin\\Demo\\Plugin"
   }
 }
