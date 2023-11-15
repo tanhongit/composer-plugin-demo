@@ -1,5 +1,5 @@
 {
-  "name": "cslant/composer-plugin-example",
+  "name": "tanhongit/composer-plugin-example",
   "description": "An example of a composer plugin",
   "type": "composer-plugin",
   "license": "MIT",
